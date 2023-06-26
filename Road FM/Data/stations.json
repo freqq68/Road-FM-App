@@ -1,0 +1,19 @@
+{
+    "station":
+    [
+     {
+     "name": "Road FM - Haute Qualitée",
+     "streamURL": "https://audio.playradio.pro/listen/road_fm/hifi",
+     "imageURL": "roadfm-hi.png",
+     "desc": "Boost your Road!",
+     "longDesc": "Ecoutez la première radio de France dédiée au monde de la route. Nos programmes variées, vous garantira une conduite sans limites !"
+     },
+     {
+     "name": "Road FM - Economique",
+     "streamURL": "https://audio.playradio.pro/listen/road_fm/lofi",
+     "imageURL": "roadfm-lofi.png",
+     "desc": "Boost your Road!",
+     "longDesc": "Ecoutez la première radio de France dédiée au monde de la route. Nos programmes variées, vous garantira une conduite sans limites !"
+     }
+    ]
+}
