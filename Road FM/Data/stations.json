@@ -14,6 +14,13 @@
      "imageURL": "roadfm-lofi.png",
      "desc": "Boost your Road!",
      "longDesc": "Ecoutez la première radio de France dédiée au monde de la route. Nos programmes variées, vous garantira une conduite sans limites !"
+     },
+     {
+     "name": "(Beta) Road FM - Automatique",
+     "streamURL": "https://audio.playradio.pro/hls/road_fm/live.m3u8",
+     "imageURL": "roadfm-hi.png",
+     "desc": "Conçu pour s'adapter à votre connexion internet.",
+     "longDesc": "Ecoutez la première radio de France dédiée au monde de la route. Nos programmes variées, vous garantira une conduite sans limites !"
      }
     ]
 }

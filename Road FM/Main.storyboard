@@ -400,7 +400,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="448" y="423"/>
+            <point key="canvasLocation" x="447.82608695652175" y="422.54464285714283"/>
         </scene>
         <!--Info View Controller-->
         <scene sceneID="abW-KU-RWK">
@@ -547,12 +547,12 @@
                                 <constraints>
                                     <constraint firstAttribute="height" relation="lessThanOrEqual" priority="750" constant="350" id="L5G-S8-88G"/>
                                 </constraints>
-                                <mutableString key="text">FONCTIONNALITÉS: + Affiche l'Artiste, le Titre et la Pochette de l'Album/Station sur l'écran verrouillé.
+                                <string key="text">FONCTIONNALITÉS: + Affiche l'Artiste, le Titre et la Pochette de l'Album/Station sur l'écran verrouillé.
 + Lecture audio en arrière-plan.
 +Intégration de l'API iTunes pour télécharger automatiquement les pochettes d'album.
 + Charge et analyse les métadonnées Icecast (c.-à-d. noms des artistes et des titres).
 + Possibilité de mettre à jour les stations depuis le serveur sans devoir soumettre de nouveau à l'App Store.
-</mutableString>
+</string>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
